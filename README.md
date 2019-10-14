@@ -13,5 +13,5 @@
 
 ## 教程
 ### HTML初识
-[一些简单的例子用来熟悉html](./HTML/src/01.html) 
-[头部声明的演化](./HTML/·markdown/01.html) 
+[一些简单的例子用来熟悉html](./HTML/src/01.html)   
+[头部声明的演化](./HTML/markdown/01.md) 
