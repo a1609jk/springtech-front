@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>教程</title>
+  </head>
+  <body>
+    <p>HTML 超链接</p>
+    <p>
+      <!--
+				HTML 超链接
+				HTML使用标签 <a>来设置超文本链接。
+				超链接可以是一个字，一个词，或者一组词，也可以是一幅图像，您可以点击这些内容来跳转到新的文档或者当前文档中的某个部分。
+				当您把鼠标指针移动到网页中的某个链接上时，箭头会变为一只小手。
+				在标签<a> 中使用了href属性来描述链接的地址。
+				默认情况下，链接将以以下形式出现在浏览器中：
+				一个未访问过的链接显示为蓝色字体并带有下划线。
+				访问过的链接显示为紫色并带有下划线。
+				点击链接时，链接显示为红色并带有下划线。
+			-->
+
+      <a href="url">链接文本</a>
+      <br />
+      <a href="http://www.google.com">
+        home page1
+      </a>
+      <br />
+      <a href="http://www.google.com/">
+        home page2
+      </a>
+      <!--
+				语法格式:
+				href 属性描述了链接的目标。
+				链接要以 / 结束，不以正斜杠结尾就会向服务器产生两次 HTTP 请求
+			-->
+      <br />
+      <a href="https://www.google.com/" target="_blank">to google</a>
+			<br />
+			<a href="https://www.google.com/" target="_self">to google</a>
+
+      <!--	
+				HTML 超链接- target 属性
+			使用 target 属性，你可以定义被链接的文档在何处显示。
+			_blank 在新窗口中打开被链接文档。
+			_self 默认。在相同的框架中打开被链接文档。
+			_parent 在父框架集中打开被链接文档。
+			_top 在整个窗口中打开被链接文档。
+			framename 在指定的框架中打开被链接文档。
+			-->
+    </p>
+  </body>
+</html>
