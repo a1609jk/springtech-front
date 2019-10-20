@@ -32,5 +32,5 @@
 [HTML 表格](./HTML/src/11.html)  
 [HTML 列表](./HTML/src/12.html)  
 [HTML 塊級元素/HTML 内联元素](./HTML/markdown/02.md)  
-[HTML 類選擇器/id選擇器] (./HTML/src/13.html)  
+[HTML 類選擇器/id選擇器](./HTML/src/13.html)  
 
