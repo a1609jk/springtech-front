@@ -41,7 +41,7 @@
 [CSS語法](./HTML/markdown/03.md)  第2節課講到這裏....     
 [CSS選擇器](./HTML/markdown/04.md)  
 [CSS插入样式表](./HTML/markdown/05.md)    
-[CSS背景](./HTML/markdown/06.md)  
+[CSS背景](./HTML/markdown/06.md)  第3節課講到這裏....
 [CSS文本處理](./HTML/markdown/07.md)    
 [CSS文字](./HTML/markdown/08.md)    
 
