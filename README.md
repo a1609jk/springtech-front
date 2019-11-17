@@ -43,7 +43,8 @@
 [CSS插入样式表](./HTML/markdown/05.md)    
 [CSS背景](./HTML/markdown/06.md)  第3節課講到這裏....  
 [CSS文本處理](./HTML/markdown/07.md)    
-[CSS文字](./HTML/markdown/08.md)    
+[CSS文字](./HTML/markdown/08.md)      
+[CSS鏈接與僞類](./HTML/markdown/09.md)      
 
 
 
