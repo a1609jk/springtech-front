@@ -43,6 +43,8 @@
 [CSS插入样式表](./HTML/markdown/05.md)    
 [CSS背景](./HTML/markdown/06.md)  
 [CSS文本處理](./HTML/markdown/07.md)    
+[CSS文字](./HTML/markdown/08.md)    
+
 
 
 
