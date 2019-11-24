@@ -52,4 +52,5 @@
 [CSS 邊框](./HTML/markdown/14.md)   
 
 ### javascrpit 基础
+[javascrpit介绍](./HTML/markdown/15.md)  
 
