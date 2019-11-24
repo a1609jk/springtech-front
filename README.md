@@ -44,7 +44,7 @@
 [CSS背景](./HTML/markdown/06.md)  第3節課講到這裏....  
 [CSS文本處理](./HTML/markdown/07.md)    
 [CSS文字](./HTML/markdown/08.md)      
-[CSS鏈接與僞類](./HTML/markdown/09.md)      
+[CSS鏈接與僞類](./HTML/markdown/09.md) 第4節課講到這裏....    
 [CSS 列表](./HTML/markdown/10.md)  
 [CSS 表格](./HTML/markdown/11.md)  
 [CSS 框模型概述](./HTML/markdown/12.md)   
