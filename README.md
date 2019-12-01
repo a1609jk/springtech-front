@@ -59,4 +59,6 @@
 [javascrpit输出](./HTML/markdown/17.md)  
 [javaScript语句](./HTML/markdown/18.md)  
 [javaScript語法](./HTML/markdown/20.md)    
+[javaScript变量](./HTML/markdown/21.md)    
+
 
