@@ -58,7 +58,7 @@
 [javascrpit引入](./HTML/markdown/16.md)  
 [javascrpit输出](./HTML/markdown/17.md)  
 [javaScript语句](./HTML/markdown/18.md)  
-[javaScript語法](./HTML/markdown/20.md)    
+[javaScript語法](./HTML/markdown/20.md)  第6節課講到這裏....    
 [javaScript变量](./HTML/markdown/21.md)    
 [javaScript常用运算符](./HTML/markdown/22.md)  
 [javaScript变量 2](./HTML/markdown/23.md)        
