@@ -62,5 +62,7 @@
 [javaScript变量](./HTML/markdown/21.md)    
 [javaScript常用运算符](./HTML/markdown/22.md)  
 [javaScript变量 2](./HTML/markdown/23.md)        
-
+[javaScript数据类型](./HTML/markdown/24.md)     
+[javaScript类型转换](./HTML/markdown/25.md)   
+[javaScript数据类型 2](./HTML/markdown/26.md) 
 
